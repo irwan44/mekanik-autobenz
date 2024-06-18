@@ -22,7 +22,7 @@
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <application
-        android:label="RealautoBens Mekanik"
+        android:label="Mekanik Real Auto Workshop"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

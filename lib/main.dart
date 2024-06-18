@@ -70,7 +70,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return GetMaterialApp(
       debugShowCheckedModeBanner: false,
-      title: "RealautoBens Mekanik",
+      title: "Mekanik Real Auto Workshop ",
       initialRoute: Publics.controller.getToken.value.isEmpty
           ? AppPages.INITIAL
           : Routes.SPLASHCREEN,
